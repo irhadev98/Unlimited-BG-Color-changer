@@ -1,0 +1,14 @@
+h1 {
+   display: flex;
+   justify-content: center;
+   margin-top: 10rem;
+}
+button {
+    margin-left: 50%;
+    height: 40px;
+    width: 70px;
+    font-size: larger;
+    margin-top: 20px;
+
+}
+
